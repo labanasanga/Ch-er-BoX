@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Ch@eR BoX</string>
+    <string name="title_activity_register">Register_Activity</string>
+    <string name="title_activity_screen">Screen_Activity</string>
+</resources>
